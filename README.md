@@ -4,7 +4,7 @@
 ## How to Run ? (GCC) | Como executar ? (GCC)
 gcc ShellvPower.c -o output && ./output
 
-## Imagens
+## Images | Imagens
 <div>
   <p align=center>
    <img src=https://user-images.githubusercontent.com/88407564/145655396-12ae964e-ff91-46f8-b56e-d7a90f2d678c.png>
